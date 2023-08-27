@@ -6,3 +6,4 @@ Arquivo
 enviando a funcionalidade
 x
 teste funcionalidade
+enviando a funcionalidade b
